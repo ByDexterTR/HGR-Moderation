@@ -1,0 +1,82 @@
+"Phrases"
+{
+	/*
+		HGR
+	*/
+	"HGR-store-disabled"
+	{
+		"tr"	"{green}[HGR-Moderasyon] {default}HookGrabRope Satın alma {darkblue}kapalı!"
+	}
+	"notifymsg"
+	{
+		"en"	"{green}[HGR-Moderasyon] {default}Bu sunucuda hgr moderasyon eklentisi bulunmakta {darkblue}( sm_hgrbuy | sm_hgrstatus )"
+	}
+	"IpReq"
+	{
+		"#format"	"{1:s}"
+		"tr"	"{green}[HGR-Moderasyon] {default}Bu komutu kullanabilmek için isminde {darkblue}{1} {default}ip olması gerekir."
+	}
+	/*
+		Hook
+	*/
+	"Hook-buy"
+	{
+		"tr"	"{green}[HGR-Moderasyon] {darkblue}Hook {default}satın aldın!"
+	}
+	"Hook-disable"
+	{
+		"tr"	"{green}[HGR-Moderasyon] {default}HOOK kullanamazsınız çünkü kapalı!"
+	}
+	"Hook-announce-chat"
+	{
+		"#format"	"{1:N}"
+		"tr"	"{green}[HGR-Moderasyon] {darkblue}{1} {default}adlı oyuncu Hook kullandı!"
+	}
+	"Hook-announce-console"
+	{
+		"#format"	"{1:N}"
+		"tr"	"[HGR-Moderasyon] {1} adlı oyuncu Hook kullandı!"
+	}
+	/*
+		Grab
+	*/
+	"Grab-buy"
+	{
+		"tr"	"{green}[HGR-Moderasyon] {darkblue}Grab {default}satın aldın!"
+	}
+	"Grab-disable"
+	{
+		"tr"	"{green}[HGR-Moderasyon] {default}GRAB kullanamazsınız çünkü kapalı!"
+	}
+	"Grab-announce-chat"
+	{
+		"#format"	"{1:N}"
+		"tr"	"{green}[HGR-Moderasyon] {darkblue}{1} {default}adlı oyuncu Grab kullandı!"
+	}
+	"Grab-announce-console"
+	{
+		"#format"	"{1:N}"
+		"tr"	"[HGR-Moderasyon] {1} adlı oyuncu Grab kullandı!"
+	}
+	/*
+		Rope
+	*/
+	"Rope-buy"
+	{
+		"tr"	"{green}[HGR-Moderasyon] {default}You bought {darkblue}Rope!"
+	}
+	"Rope-disable"
+	{
+		"tr"	"{green}[HGR-Moderasyon] {default}You can't use ROPE because it's closed!"
+	}
+	"Rope-announce-chat"
+	{
+		"#format"	"{1:N}"
+		"tr"	"{green}[HGR-Moderasyon] {darkblue}{1} {default}adlı oyuncu Rope kullandı!"
+	}
+	"Rope-announce-console"
+	{
+		"#format"	"{1:N}"
+		"tr"	"[HGR-Moderasyon] {1} adlı oyuncu Rope kullandı!"
+	}
+}

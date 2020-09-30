@@ -1,0 +1,82 @@
+"Phrases"
+{
+	/*
+		HGR 
+	*/
+	"HGR-store-disabled"
+	{
+		"en"	"{green}[HGR-Moderation] {default}HookGrabRope Store {darkblue}disabled!"
+	}
+	"notifymsg"
+	{
+		"en"	"{green}[HGR-Moderation] {default}This server has hgr-moderation plugin! {darkblue}( sm_hgrbuy | sm_hgrstatus )"
+	}
+	"IpReq"
+	{
+		"#format"	"{1:s}"
+		"en"	"{green}[HGR-Moderation] {default}In order to use this Command, you must have {darkblue}{1} {default}ip in its name."
+	}
+	/* 
+		Hook
+	*/
+	"Hook-buy"
+	{
+		"en"	"{green}[HGR-Moderation] {default}You bought {darkblue}Hook!"
+	}
+	"Hook-disable"
+	{
+		"en"	"{green}[HGR-Moderation] {default}You can't use HOOK because it's closed!"
+	}
+	"Hook-announce-chat"
+	{
+		"#format"	"{1:N}"
+		"en"	"{green}[HGR-Moderation] {darkblue}{1} {default}Hook used!"
+	}
+	"Hook-announce-console"
+	{
+		"#format"	"{1:N}"
+		"en"	"[HGR-Moderation] {1} Hook used!"
+	}
+	/*
+		Grab
+	*/
+	"Grab-buy"
+	{
+		"en"	"{green}[HGR-Moderation] {default}You bought {darkblue}Grab!"
+	}
+	"Grab-disable"
+	{
+		"en"	"{green}[HGR-Moderation] {default}You can't use GRAB because it's closed!"
+	}
+	"Grab-announce-chat"
+	{
+		"#format"	"{1:N}"
+		"en"	"{green}[HGR-Moderation] {darkblue}{1} {default}Grab used!"
+	}
+	"Grab-announce-console"
+	{
+		"#format"	"{1:N}"
+		"en"	"[HGR-Moderation] {1} Grab used!"
+	}
+	/*
+		Rope
+	*/
+	"Rope-buy"
+	{
+		"en"	"{green}[HGR-Moderation] {default}You bought {darkblue}Rope!"
+	}
+	"Rope-disable"
+	{
+		"en"	"{green}[HGR-Moderation] {default}You can't use ROPE because it's closed!"
+	}
+	"Rope-announce-chat"
+	{
+		"#format"	"{1:N}"
+		"en"	"{green}[HGR-Moderation] {darkblue}{1} {default}Rope used!"
+	}
+	"Rope-announce-console"
+	{
+		"#format"	"{1:N}"
+		"en"	"[HGR-Moderation] {1} Rope used!"
+	}
+}
