@@ -7,29 +7,11 @@
 #include <store>
 #include <warden>
 #include <clientprefs>
-/*
-#include <sdktools>
-#include <sdkhooks>
-#include <devzones>
-#include <customplayerskins>
-#include <overlays>
-#include <emitsoundany>
-*/
-
-// ----- HookEvent ----- //
-
-/*
-HookEvent("player_spawn", OnClientSpawn);
-HookEvent("player_death", OnClientDead);
-HookEvent("bomb_planted", C4Planted);
-HookEvent("weapon_fire", WeaponFire);
-*/
 
 // ----- #pragma ----- //
 
 #pragma semicolon 1
 #pragma newdecls required
-// #pragma tabsize 0 //
 
 Handle g_HookaccessC = null, g_GrabaccessC = null, g_RopeaccessC = null, h_timer[MAXPLAYERS + 1] = null;
 
