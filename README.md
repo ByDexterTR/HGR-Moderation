@@ -9,7 +9,7 @@
 - **sm_hgr_round_end** --> HGR use end of tour only
 - **sm_hgr_serverip_requirement** --> 0 = Off | 1 = On
 - - **sm_hgr_serverip** --> Server Ip
-- - **sm_hgr_store** --> Buying hgr from the store
+- **sm_hgr_store** --> Buying hgr from the store
 - - **sm_hgr_hook_price** --> Hook Store Price
 - - **sm_hgr_grab_price** --> Grab Store Price
 - - **sm_hgr_rope_price** --> Rope Store Price
