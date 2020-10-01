@@ -1,0 +1,76 @@
+"Phrases"
+{
+	"Loading"
+	{
+		"tr"			"Yükleniyor"
+	}
+	
+	"Loaded"
+	{
+		"tr"			"Yüklendi"
+	}
+
+	"Enabled"
+	{
+		"tr"			"Eklenti etkinleştirildi, geçerli komutlar:"
+	}
+
+	"Disabled"
+	{
+		"tr"			"şu anda devre dışı."
+	}
+
+	"Given Access"
+	{
+		"#format"		"{1:s}"
+		"tr"			"Artık {1} erişiminiz var."
+	}
+
+	"Taken Access"
+	{
+		"#format"		"{1:s}"
+		"tr"			"Artık {1} erişiminiz yok."
+	}
+
+	"Admin Give"
+	{
+		"#format"		"{1:s}"
+		"tr"			"{1} için erişim izni verdi"
+	}
+
+	"Admin Take"
+	{
+		"#format"		"{1:s}"
+		"tr"			"{1} erişimini kaldırdı"
+	}
+
+	"No Permission"
+	{
+		"tr"			"Kullanma izniniz yok"
+	}
+
+	"Error"
+	{
+		"tr"			"Bunu şu anda yapamazsınız."
+	}
+
+	"Searching"
+	{
+		"tr"			"Bir hedef aranıyor ..."
+	}
+
+	"Found"
+	{
+		"tr"			"Hedef bulundu, tuşu bırakın / düşürmek için kapatın."
+	}
+
+	"Not Found"
+	{
+		"tr"			"Hedef bulunamadı."
+	}
+
+	"Dropped"
+	{
+		"tr"			"Hedef düşürüldü."
+	}
+}

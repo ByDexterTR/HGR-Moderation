@@ -1,0 +1,76 @@
+"Phrases"
+{
+	"Loading"
+	{
+		"en"			"Loading"
+	}
+	
+	"Loaded"
+	{
+		"en"			"Loaded"
+	}
+
+	"Enabled"
+	{
+		"en"			"Plugin enabled, valid commands are:"
+	}
+
+	"Disabled"
+	{
+		"en"			"is currently disabled."
+	}
+
+	"Given Access"
+	{
+		"#format"		"{1:s}"
+		"en"			"You now have {1} access."
+	}
+
+	"Taken Access"
+	{
+		"#format"		"{1:s}"
+		"en"			"You no longer have {1} access."
+	}
+
+	"Admin Give"
+	{
+		"#format"		"{1:s}"
+		"en"			"gave {1} access to"
+	}
+
+	"Admin Take"
+	{
+		"#format"		"{1:s}"
+		"en"			"removed {1} access from"
+	}
+
+	"No Permission"
+	{
+		"en"			"You don't have permission to use"
+	}
+
+	"Error"
+	{
+		"en"			"You can't do that right now."
+	}
+
+	"Searching"
+	{
+		"en"			"Searching for a target..."
+	}
+
+	"Found"
+	{
+		"en"			"Target found, release key/toggle off to drop."
+	}
+
+	"Not Found"
+	{
+		"en"			"No target found."
+	}
+
+	"Dropped"
+	{
+		"en"			"Target has been dropped."
+	}
+}
