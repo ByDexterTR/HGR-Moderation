@@ -27,4 +27,4 @@
 - **cfg/ByDexter/HGR-Moderation.cfg**
 
 
-**You can tell me the features that you think will be nice on the discord platform: ByDexter#2947**
+**You can tell me the features that you think will be nice on the discord platform: ByDexter#5494**
