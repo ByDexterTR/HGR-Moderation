@@ -30,7 +30,7 @@ public Plugin myinfo =
 	author = "ByDexter", 
 	description = "Features for Hook Grab Rope", 
 	version = "1.0", 
-	url = "https://steamcommunity.com/id/ByDexterTR - ByDexter#2947"
+	url = "https://steamcommunity.com/id/ByDexterTR - ByDexter#5494"
 };
 
 public void OnPluginStart()
